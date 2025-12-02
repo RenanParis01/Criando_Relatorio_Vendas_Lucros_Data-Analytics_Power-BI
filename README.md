@@ -1,1 +1,3 @@
-# Criando_Relatorio_Vendas_Lucros_Data-Analytics_Power-BI
+# Projeto DIO
+
+Criação de um relatório de vendas utilizando uma dashboard pré-pronta ciada pela professora.
